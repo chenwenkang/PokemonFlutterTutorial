@@ -1,8 +1,4 @@
-# pokemon_app
+#Pokemon App With Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A pokemon app made from Flutter following below tutorial on youtube.
+https://www.youtube.com/watch?v=yeXJqZCiwTQ&index=61&list=WL&t=1s
